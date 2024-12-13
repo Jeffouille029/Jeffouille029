@@ -1,16 +1,36 @@
-## Hi there 👋
+## Welcom to my GitHub page 👋
 
-<!--
-**Jeffouille029/Jeffouille029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    🌟 Who am I?  
+    
+I am Jean-François, a student in Mathematics and Computer Science in Rennes  
+My main goal is to learn more about programming by working on various projects and developing my skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    🔧 What I’m currently working on  
+    
+   ⚖️ Mathematics:   
+Algebra, analysis, statistics, and applications in computer science  
+   💻 Programming:  
+Learning languages: Python, and a bit of C++ 
+
+    🎨 My interests
+    
+🏊‍♂️🏃‍♂️🚴‍♂️ Triathlon  
+✨ Programming  
+🔬 Data Science  
+🚀 Artificial Intelligence (in exploration)  
+
+    🔄 Currently Learning  
+    
+- Here are the technologies and concepts I’m currently exploring:  
+- Languages: Python (advanced), C++ (beginner)  
+- Fundamentals in data science and mathematical modeling  
+- Basics of machine learning  
+
+    🛠️ Contact
+
+Want to chat or collaborate? Feel free to reach out:
+✉ Email: [jean.cambus29@gmail.com]  
+🔗 [LinkedIn](www.linkedin.com/in/jean-françois-cambus-4b760320b)  
+
