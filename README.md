@@ -1,4 +1,4 @@
-## Welcom to my GitHub page 👋
+## Welcome to my GitHub page 👋
 
 
     🌟 Who am I?  
